@@ -1,15 +1,13 @@
 baseURL: http://daryausova.website/
 languageCode: 'ru'
 title: 'Darya Usova Blog'
-theme: 'hugo-theme-stack'
 
 DefaultContentLanguage: "ru"
 enableEmoji: true
 
-module:
-    hugoVersion:
-        extended: true
-        min: "0.87.0"
+permalinks:
+    post: /p/:slug/
+    page: /:slug/
 
 params:
     mainSections:
