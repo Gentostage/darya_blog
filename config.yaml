@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: http://daryausova.website/
 languageCode: 'ru'
 title: 'Darya Usova Blog'
 theme: 'hugo-theme-stack'
@@ -19,7 +19,7 @@ params:
     favicon:
 
     footer:
-        since: Дарья Усова
+        since: 2021
         customText: Блог о чем то 
 
     dateFormat:
