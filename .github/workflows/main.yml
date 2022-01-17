@@ -5,7 +5,7 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-    types: [closed]
+    types: [closed, edited]
 
 jobs:
   build:
@@ -32,6 +32,9 @@ jobs:
     - name: Build
       run: hugo --minify
 
-    - name: Copy to webserver
+    - name: Copy to webserver prod
       if: (github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true) ||  github.event_name == 'push'
       run: rsync -v --delete -rvzh ./public/ www@87.249.50.16:/var/www/html/darya/
+    - name: Copy to webserver test
+      if: github.event_name == 'pull_request' && github.event.action == 'edited'
+      run: rsync -v -rvzh ./public/ www@87.249.50.16:/var/www/html/darya/
