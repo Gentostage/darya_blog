@@ -14,9 +14,9 @@ collections:
   - name: 'post'
     label: 'Post'
     folder: 'content/post'
-    preview_path: p/{{fields.slug}}/
-    media_folder: ""
-    public_folder: ""
+    preview_path: 'p/{{fields.slug}}/'
+    media_folder: ''
+    public_folder: ''
     create: true
     fields:
       - { label: 'Заголовок', name: 'title', widget: 'string' }
