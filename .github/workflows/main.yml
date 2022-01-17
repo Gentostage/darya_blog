@@ -11,7 +11,6 @@ jobs:
   build:
     name: Build and Deploy
     runs-on: ubuntu-latest
-    if: github.event.pull_request.merged == true
     steps:
 
     - name: Install SSH key
@@ -34,4 +33,5 @@ jobs:
       run: hugo --minify
 
     - name: Copy to webserver
+      if: (github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true) ||  github.event_name == 'push'
       run: rsync -v --delete -rvzh ./public/ www@87.249.50.16:/var/www/html/darya/
