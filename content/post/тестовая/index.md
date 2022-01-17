@@ -12,4 +12,4 @@ image: image_560609130604533598226.jpg
 ---
 Test test
 
-![](favicon.ico)
+![](без-имени.png)
