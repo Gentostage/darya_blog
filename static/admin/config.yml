@@ -14,8 +14,8 @@ collections:
   - name: 'post'
     label: 'Post'
     folder: 'content/post'
-    path: "{{slug}}/index"
-    preview_path: preview/{{slug}}
+    path: "p/{{slug}}/"
+    preview_path: p/{{slug}}/
     media_folder: ""
     public_folder: ""
     create: true
