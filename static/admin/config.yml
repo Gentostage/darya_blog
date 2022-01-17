@@ -15,10 +15,13 @@ collections:
     create: true
     fields:
       - { label: 'Заголовок', name: 'title', widget: 'string' }
-      - { label: 'Адресс', name: 'slug', widget: 'string' }
+      - { label: 'Черновик', name: 'draft', widget: 'boolean', default: true }
+      - { label: 'url', name: 'slug', widget: 'string' }
       - { label: 'Дата публикации', name: 'date', widget: 'datetime' }
       - { label: 'Описание', name: 'description', widget: 'string' }
+      - { label: 'Тэги', name: 'tags', widget: 'list' }
       - {label: "Фоновая картинка", name: "image", widget: "image"}
+      - { label: 'Категории', name: 'categories', widget: 'list' }
       - { label: 'Контент', name: 'body', widget: 'markdown' }
-      - { label: 'Тэги', name: 'tags', widget: 'markdown' }
+
       
