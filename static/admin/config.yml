@@ -14,7 +14,6 @@ collections:
   - name: 'post'
     label: 'Post'
     folder: 'content/post'
-    path: 'content/post'
     preview_path: p/{{fields.slug}}/
     media_folder: ""
     public_folder: ""
