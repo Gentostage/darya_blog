@@ -16,5 +16,5 @@ image: hello-world.jpg
 Публикую первую запись в моём блоге.   
 
 Данный блог сделан на генераторе статических сайтов [gohugo.io](https://gohugo.io/ "gohugo.io/")  
-Редактирование контента осуществляется  с помощью CMS [netlifycms.org](www.netlifycms.org)   
+Редактирование контента осуществляется  с помощью CMS [netlifycms.org](https://netlifycms.org)   
 Автоматический деплой на сервер через [github Actions](https://github.com/features/actions)
