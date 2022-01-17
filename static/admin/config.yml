@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: Gentostage/darya_blog
   branch: master # Branch to update (optional; defaults to master)
+  base_url: https://github.daryausova.website
 media_folder: static/img
 public_folder: /img
 collections:

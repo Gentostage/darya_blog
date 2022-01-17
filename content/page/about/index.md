@@ -4,7 +4,8 @@ description: Небольшой блог посвященный дизайну
 date: 2021-11-30T21:00:00+00:00
 aliases: []
 license: CC BY-NC-ND
-lastmod: 
+lastmod:
+slug: "about"
 menu:
   main:
     weight: -90
