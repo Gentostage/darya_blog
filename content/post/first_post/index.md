@@ -2,11 +2,14 @@
 license: null
 math: null
 hidden: false
+slug: my-first-post
 date: 2022-01-16T15:52:49.000+03:00
 comments: false
 title: Первый пост на моем блоге
-image: hello-world.jpg
 description: "Пробуем что-нибудь опубликовать "
+tags:
+  - блог
+image: hello-world.jpg
 ---
 # Привет мир!
 
