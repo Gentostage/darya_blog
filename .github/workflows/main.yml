@@ -37,4 +37,4 @@ jobs:
       run: rsync -v --delete -rvzh ./public/ www@87.249.50.16:/var/www/html/darya/
     - name: Copy to webserver test
       if: github.event_name == 'pull_request' && github.event.action == 'edited'
-      run: rsync -v -rvzh ./public/ www@87.249.50.16:/var/www/html/darya/
+      run: rsync -v -rvzh ./public/ www@87.249.50.16:/var/www/html/darya_test/
