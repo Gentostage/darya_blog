@@ -3,13 +3,15 @@ name: Build and Deploy
 on:
   push:
     branches: [ master ]
-  # pull_request:
-  #   branches: [ master ]
+  pull_request:
+    branches: [ master ]
+    types: [closed]
 
 jobs:
   build:
     name: Build and Deploy
     runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true
     steps:
 
     - name: Install SSH key
