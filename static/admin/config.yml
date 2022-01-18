@@ -17,7 +17,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     preview_path: 'p/{{fields.slug}}/'
     folder: 'content/post'
-    path: 'content/post2'
+    path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
     create: true
