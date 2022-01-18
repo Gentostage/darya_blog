@@ -15,7 +15,7 @@ collections:
     label: 'Post'
     folder: 'content/post'
     preview_path: 'p/{{fields.slug}}/'
-    path: 'content/post'
+    path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
     create: true
