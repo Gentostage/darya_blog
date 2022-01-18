@@ -11,10 +11,12 @@ publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: 'post'
-    label: 'Post'
-    folder: '{{slug}}/index'
+  - label: 'Post'
+    name: 'post'
+    identifier_field: '{{fields.slug}}' 
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     preview_path: 'p/{{fields.slug}}/'
+    folder: 'content/post'
     path: 'content/post'
     media_folder: ''
     public_folder: ''
