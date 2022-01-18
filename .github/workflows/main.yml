@@ -2,10 +2,10 @@ name: Build and Deploy
 
 on:
   push:
-    branches: [ master ]
+    branches: [ '*' ]
   pull_request:
     branches: [ master ]
-    types: [closed, edited]
+    types: [closed]
 
 jobs:
   build:
@@ -36,5 +36,5 @@ jobs:
       if: (github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true) ||  github.event_name == 'push'
       run: rsync -v --delete -rvzh ./public/ www@87.249.50.16:/var/www/html/darya/
     - name: Copy to webserver test
-      if: github.event_name == 'pull_request' && github.event.action == 'edited'
+      if: github.event_name == 'push'
       run: rsync -v -rvzh ./public/ www@87.249.50.16:/var/www/html/darya_test/
