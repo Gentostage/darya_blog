@@ -13,9 +13,9 @@ public_folder: /img
 collections:
   - name: 'post'
     label: 'Post'
-    folder: 'content/post'
+    folder: '{{slug}}/index'
     preview_path: 'p/{{fields.slug}}/'
-    path: '{{slug}}/index'
+    path: 'content/post'
     media_folder: ''
     public_folder: ''
     create: true
