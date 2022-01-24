@@ -92,7 +92,7 @@ menu:
     social:
         - identifier: vk
           name: vk
-          url: https://vk.com
+          url: https://vk.com/dashkausova
           params:
             icon: brand-vk
 
@@ -114,8 +114,8 @@ markup:
             ## Set to true if you have HTML content inside Markdown
             unsafe: true
     tableOfContents:
-        endLevel: 2
-        ordered: true
-        startLevel: 2
+        endLevel: 7
+        ordered: false
+        startLevel: 1
     highlight:
         noClasses: true
