@@ -33,8 +33,8 @@ jobs:
       run: hugo --minify
 
     - name: Copy to webserver prod
-      if: (github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true) ||  github.event_name == 'push'
+      if: (github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true) || (github.event_name == 'push' && github.ref == 'refs/heads/master')
       run: rsync -v --delete -rvzh ./public/ www@87.249.50.16:/var/www/html/darya/
+      
     - name: Copy to webserver test
-      if: (github.event_name == 'pull_request' && github.event.action == 'opened') || github.event_name == 'push'
       run: rsync -v -rvzh ./public/ www@87.249.50.16:/var/www/html/darya_test/
