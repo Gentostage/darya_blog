@@ -24,37 +24,37 @@ image: ui-example-edited.svg
 
 ### Bento Menu, Döner Menu, Hamburger Menu, Kebab Menu, Alt-burger, meatball
 
-![bento](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/bento.png)
+![](bento.png)
 
 Типы иконок меню, которые названы в честь блюд. Используются очень часто в качестве отображения меню.
 
 ### Кнопка (Button)
 
-![button](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/click.gif)
+![](click.gif)
 
 Кнопки позволяют пользователю взаимодействовать с формами на сайте.
 
 ### Карточка (Card)
 
-![cards](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/cards.png)
+![](cards.png)
 
 Карточки на данный момент довольно популярны среди UI/UX. Карточки – это небольшие прямоугольные или квадратные модули, которые содержат различную информацию - в виде кнопок, текста, мультимедиа и т.д. Карточки - отличный выбор дизайна пользовательского интерфейса, если вы хотите разумно использовать доступное пространство и предоставить пользователю несколько вариантов содержимого, не заставляя их прокручивать традиционный список.
 
 ### Карусель (Carousel)
 
-![3D слайдер-карусель](https://atuin.ru/blog/wp-content/uploads/2020/09/slider-carousel.png)
+![](slider-carousel.png)
 
 Карусели позволяют пользователям просматривать наборы контента, такие как изображения или открытки, часто гиперссылки на большее количество контента или источников. Самым большим преимуществом использования каруселей в дизайне UI является то, что они позволяют нескольким фрагментам контента занимать одну и ту же область пространства на странице или экране. 
 
 ### Checkbox
 
-![Checkboxes UI Token](https://uploads-ssl.webflow.com/5f42aa4f00927e9637dc6955/607c6ad01828082f4017a1ad_checkboxes.png)
+![](607c6ad01828082f4017a1ad_checkboxes.png)
 
 Чекбокс это флаг который позволяет выбрать учитывать этот элемент или нет (например при выборе параметров товара).
 
-### (Выпадающий список) Dropdown
+### Выпадающий список (Dropdown)
 
-![Dropdown Style Sketch freebie - Download free resource for Sketch - Sketch  App Sources](https://www.sketchappsources.com/resources/source-image/dropdown-hernansartorio.png)
+![Dropdown Style Sketch freebie - Download free resource for Sketch - Sketch  App Sources](dropdown-hernansartorio.png)
 
 Элемент (виджет) графического интерфейса пользователя, позволяющий выбрать одно из нескольких заранее определённых значений параметра. Когда виджет выпадающего списка неактивен, отображается только выбранное значение, а рядом с ним — значок выпадающего списка (по традиции — треугольник или стрелка углом вниз). 
 
@@ -62,72 +62,72 @@ image: ui-example-edited.svg
 
 ### Форма (Form)
 
-![](1.jpg)
+![](2111.jpg)
 
 ### Поле ввода (Input Field)
 
-![input](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/input.jpg)
+![input](input.jpg)
 
 ### Loader
 
-![Using loading animation on websites and apps: Examples and snippets to use  | by Alexander Gilmanov | UX Planet](https://miro.medium.com/max/1400/1*CsJ05WEGfunYMLGfsT2sXA.gif)
+![](1_csj05wegfunymlgfst2sxa.gif)
 
 Loader'ы могут принимать самые разные формы. Дизайнеры любят с ними экспериментировать. Loader'ы предназначены для отображения индикатора загрузки, пока на фоне отрабатывает какой-то экшн.
 
 ### Модальное окно (popup)
 
-![Дизайн pop-up окон: правила создания | Logaster](https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/2/2019/11/Nike-popup.png)
+![](nike-popup.png)
 
 Модальное окно - это блок, содержащий контент или сообщение, которое требует от вас взаимодействия с ним, прежде чем вы сможете закрыть его и вернуться к основному контенту.
 
 ### Пагинация (Pagination)
 
-![pagination](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/pagination.gif)
+![pagination](pagination.gif)
 
 Обычно находящийся в нижней части страницы. Пагинация помогает легко "браузить" страницы сайта находя нужную вам страницу.
 
 ### Radio Buttons
 
-![radio](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/radio.gif)
+![radio](radio.gif)
 
 Radio Buttons похожи на чекбоксы, но отличаются тем, что можно 1 из нескольких вариантов.
 
 ### Поле поиска (Search Field)
 
-![search gif](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/search.gif)
+![search gif](search.gif)
 
 ### Боковая панель (Sidebar)
 
-![sidebar](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/sidebar.gif)
+![sidebar](sidebar.gif)
 
 ### Ползунок (Slider Controls)
 
-![Slider UI](https://i.pinimg.com/originals/cf/02/45/cf02453257579943d9ce24c8931b3d90.gif)
+![](cf02453257579943d9ce24c8931b3d90.gif)
 
 ### Шаговый компонент (Stepper)
 
-![CSS Breadcrumbs \&amp; Multi-Step Indicator | CodyHouse](https://codyhouse.co/assets/img/gems/hero/css-breadcrumbs-multisteps-featured.svg)
+![](css-breadcrumbs-multisteps-featured.svg)
 
 Шаговый компонент отображают прогресс в последовательности логических и пронумерованных шагов. Они также могут использоваться для навигации. Шаговые компоненты могут отображать временное сообщение обратной связи после сохранения шага.
 
 ### Тэг (Tag)
 
-![tag](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/tag.png)
+![tag](tag.png)
 
 В дизайне пользовательского интерфейса теги - это, по сути, метки, которые помогают маркировать и классифицировать контент. Обычно они состоят из релевантных ключевых слов, которые облегчают поиск и просмотр соответствующего фрагмента контента. Тэги часто используются на социальных сайтах и в блогах.
 
 ### Панель вкладок (Tab Bar)
 
-![tab bar](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/tab.gif)
+![tab bar](tab.gif)
 
 Панели вкладок отображаются в нижней части мобильного приложения и позволяют пользователям быстро перемещаться между основными разделами приложения.
 
 ### Подсказка (Tooltip)
 
-![CSS/SCSS Custom tooltip effect - Stack Overflow](https://i.stack.imgur.com/5Ymov.png)
+![](5ymov.png)
 
 Tooltip - это небольшие подсказки, которые помогают пользователям понять часть или процесс в интерфейсе.
 
-### Переключать (Toggle)<!--StartFragment-->
+### Переключать (Toggle)
 
-![check](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/check.gif)
+![](check.gif)
