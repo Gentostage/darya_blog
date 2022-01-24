@@ -52,7 +52,7 @@ image: ui-example-edited.svg
 
 Чекбокс это флаг который позволяет выбрать учитывать этот элемент или нет (например при выборе параметров товара).
 
-### (Выпадающий список) Dropdown 
+### (Выпадающий список) Dropdown
 
 ![Dropdown Style Sketch freebie - Download free resource for Sketch - Sketch  App Sources](https://www.sketchappsources.com/resources/source-image/dropdown-hernansartorio.png)
 
@@ -63,3 +63,71 @@ image: ui-example-edited.svg
 ### Форма (Form)
 
 ![](1.jpg)
+
+### Поле ввода (Input Field)
+
+![input](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/input.jpg)
+
+### Loader
+
+![Using loading animation on websites and apps: Examples and snippets to use  | by Alexander Gilmanov | UX Planet](https://miro.medium.com/max/1400/1*CsJ05WEGfunYMLGfsT2sXA.gif)
+
+Loader'ы могут принимать самые разные формы. Дизайнеры любят с ними экспериментировать. Loader'ы предназначены для отображения индикатора загрузки, пока на фоне отрабатывает какой-то экшн.
+
+### Модальное окно (popup)
+
+![Дизайн pop-up окон: правила создания | Logaster](https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/2/2019/11/Nike-popup.png)
+
+Модальное окно - это блок, содержащий контент или сообщение, которое требует от вас взаимодействия с ним, прежде чем вы сможете закрыть его и вернуться к основному контенту.
+
+### Пагинация (Pagination)
+
+![pagination](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/pagination.gif)
+
+Обычно находящийся в нижней части страницы. Пагинация помогает легко "браузить" страницы сайта находя нужную вам страницу.
+
+### Radio Buttons
+
+![radio](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/radio.gif)
+
+Radio Buttons похожи на чекбоксы, но отличаются тем, что можно 1 из нескольких вариантов.
+
+### Поле поиска (Search Field)
+
+![search gif](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/search.gif)
+
+### Боковая панель (Sidebar)
+
+![sidebar](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/sidebar.gif)
+
+### Ползунок (Slider Controls)
+
+![Slider UI](https://i.pinimg.com/originals/cf/02/45/cf02453257579943d9ce24c8931b3d90.gif)
+
+### Шаговый компонент (Stepper)
+
+![CSS Breadcrumbs \&amp; Multi-Step Indicator | CodyHouse](https://codyhouse.co/assets/img/gems/hero/css-breadcrumbs-multisteps-featured.svg)
+
+Шаговый компонент отображают прогресс в последовательности логических и пронумерованных шагов. Они также могут использоваться для навигации. Шаговые компоненты могут отображать временное сообщение обратной связи после сохранения шага.
+
+### Тэг (Tag)
+
+![tag](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/tag.png)
+
+В дизайне пользовательского интерфейса теги - это, по сути, метки, которые помогают маркировать и классифицировать контент. Обычно они состоят из релевантных ключевых слов, которые облегчают поиск и просмотр соответствующего фрагмента контента. Тэги часто используются на социальных сайтах и в блогах.
+
+### Панель вкладок (Tab Bar)
+
+![tab bar](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/tab.gif)
+
+Панели вкладок отображаются в нижней части мобильного приложения и позволяют пользователям быстро перемещаться между основными разделами приложения.
+
+### Подсказка (Tooltip)
+
+![CSS/SCSS Custom tooltip effect - Stack Overflow](https://i.stack.imgur.com/5Ymov.png)
+
+Tooltip - это небольшие подсказки, которые помогают пользователям понять часть или процесс в интерфейсе.
+
+### Переключать (Toggle)<!--StartFragment-->
+
+![check](https://joprblob.azureedge.net/site/blog/69d32b62-5852-4609-b79b-5ce7a340503f/check.gif)
