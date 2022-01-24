@@ -18,7 +18,7 @@ params:
 
     footer:
         since: 2021
-        customText: Блог о чем то 
+        customText: Записки о веб-дизайне
 
     dateFormat:
         published: Jan 02, 2006
@@ -26,7 +26,7 @@ params:
 
     sidebar:
         emoji: 💫
-        subtitle: Hello world
+        subtitle: Записки о веб-дизайне
         avatar:
             enabled: true
             local: true
@@ -94,8 +94,13 @@ menu:
           name: vk
           url: https://vk.com/dashkausova
           params:
-            icon: brand-vk
-
+            icon: vk2
+        
+        - identifier: inst
+          name: inst
+          url: https://www.instagram.com/daryausova_alex/
+          params:
+            icon:  inst2
 
 related:
     includeNewer: true
@@ -116,6 +121,6 @@ markup:
     tableOfContents:
         endLevel: 7
         ordered: false
-        startLevel: 1
+        startLevel: 3
     highlight:
         noClasses: true
