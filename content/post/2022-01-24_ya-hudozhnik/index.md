@@ -70,25 +70,5 @@ image: заголовок-2.jpg
 
 
 ### Figma
-<style>
-.frame-style {
-  border: 2px solid rgb(56 150 205);
-  margin: auto;
-  display: flex;
-}
-@media screen and (max-width:650px) {
-  .frame-style {
-    width: 100%
-  }
-}
-</style>
-<div >
-  <iframe
-    height="450"
-    width="800"
-    loading="lazy"
-    class="frame-style"
-    src="https://www.figma.com/embed?embed_host=astra&url=https://www.figma.com/file/P6JHJDvkVtKwAcok2EG62F/%D0%A1%D0%B0%D0%B9%D1%82-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE"
-    allowfullscreen
-  />
-</div>
+
+{{< figma Сайт-портфолио >}}

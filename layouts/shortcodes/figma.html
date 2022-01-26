@@ -1,0 +1,10 @@
+{{ $name := (.Get 0) }}
+<div class="video-wrapper">
+    <iframe
+      loading="lazy"
+      src="https://www.figma.com/embed?embed_host=astra&url=https://www.figma.com/file/P6JHJDvkVtKwAcok2EG62F/{{ $name }}"
+      allowfullscreen 
+      title="{{ $name }}"
+    >
+    </iframe>
+</div>
