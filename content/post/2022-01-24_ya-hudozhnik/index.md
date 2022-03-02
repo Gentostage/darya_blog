@@ -71,4 +71,4 @@ image: заголовок-2.jpg
 
 ### Figma
 
-{{< figma Сайт-портфолио >}}
+{{< figma Сайт-портфолио P6JHJDvkVtKwAcok2EG62F >}}
