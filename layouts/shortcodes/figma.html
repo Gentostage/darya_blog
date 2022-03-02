@@ -1,8 +1,10 @@
 {{ $name := (.Get 0) }}
+{{ $id := (.Get 1) }}
+{{ $node := (.Get 2) }}
 <div class="video-wrapper">
     <iframe
       loading="lazy"
-      src="https://www.figma.com/embed?embed_host=astra&url=https://www.figma.com/file/P6JHJDvkVtKwAcok2EG62F/{{ $name }}"
+      src="https://www.figma.com/embed?embed_host=astra&url=https://www.figma.com/file/{{$id}}/{{ $name }}?node-id={{$node}}"
       allowfullscreen 
       title="{{ $name }}"
     >
