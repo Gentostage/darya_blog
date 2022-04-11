@@ -12,3 +12,5 @@ categories:
 image: 17946-1.png
 ---
 ![](frame-1-1-.png)
+
+{{< figma Сайт-Web-Infrastructure lG3n6gNJWWiR3PPW1yIgo8 "287%3A2">}}
