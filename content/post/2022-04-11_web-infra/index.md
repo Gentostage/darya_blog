@@ -2,8 +2,8 @@
 title: WEB INFRASTRUCTURE
 slug: web-infra
 date: 2022-04-11T11:00:42.408Z
-description: Проектирование редизайна сайта компании WEB INFRASTRUCTURE,
-  занимающееся разработкой программного обеспечения!
+description: Проектирование редизайна сайта компании WEB INFRASTRUCTURE, которая
+  занимается разработкой программного обеспечения!
 tags:
   - Дизайн
   - Макет
